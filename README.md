@@ -1,3 +1,8 @@
+Travelistics
+============
+
+This is the repository for code developed in the [Travelistics project](http://www.vestforsk.no/prosjekt/travelistics-kartlegge-pilot-teste-og-planlegge-system-for-styringsinformasjon-for-reiselivet) at [the Western Norway Research Institute](http://www.vestforsk.no).
+
 Design and code for Travelistics
 ================================
 
@@ -6,7 +11,7 @@ The code is covered by the [WTFPL](http://www.wtfpl.net/txt/copying), the logo i
 Usage
 =====
 
-Addfromcsv is made to push data from a csv to piwik using the [piwik API](http://piwik.org/docs/analytics-api/reference/).
+addfromcsv.php is made to push data from a csv to piwik using the [piwik API](http://piwik.org/docs/analytics-api/reference/).
 
 When loading historical data there are two important things to beware:
 
